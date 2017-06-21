@@ -1,0 +1,4 @@
+reorganize MARC module
+implement MARC::Subfield class
+revise DC module
+implement RDF module
