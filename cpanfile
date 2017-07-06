@@ -1,1 +1,1 @@
-﻿requires 'URI::Escape';
+﻿requires 'URI::Escape', '== 1.71';
